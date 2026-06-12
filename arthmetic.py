@@ -1,0 +1,7 @@
+print(12+14)
+print(65-55)
+print(12*14)
+print(2345/2)
+print(246%23)
+print(876//24)
+print(765**2)
