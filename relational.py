@@ -1,0 +1,12 @@
+a,b=20,30
+print(a<b)
+a,b=12,34
+print(a>b)
+a,b=65,89
+print(a<=b)
+a,b=10,-11
+print(a>=b)
+a,b=33,33
+print(a==b)
+a,b=25,89
+print(a!=b)
