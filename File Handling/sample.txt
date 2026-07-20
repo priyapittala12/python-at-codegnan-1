@@ -1,0 +1,3 @@
+welcome to File Handling
+This is write operation
+ing
